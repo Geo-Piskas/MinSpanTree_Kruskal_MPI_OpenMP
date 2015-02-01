@@ -2,11 +2,12 @@ Kruskal's MPI
 ==========
 
 Instructions:
+
 1. 'cd' into 'kruskal/' directory and execute 'make'.
 2. Move the *.bin files from 'datasets' directory into 'kruskal/scripts/' directory.
 3. Edit and/or execute 'kruskal/scripts/run.sh' to run some tests.
 
-Reference:
+Notes:
 * [Shameless self-reference.](http://www.gpiskas.com/pdf/kruskal_mpi.pdf)
 
 Datasets:
